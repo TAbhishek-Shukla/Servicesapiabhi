@@ -1,0 +1,312 @@
+[
+    {
+        "id": "iphonexpro",
+        "name": "iphone x",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1569328870119-63e88acdd8dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "featured": true
+    },
+    {
+        "id": "samsungs20pro",
+        "name": "samsung s20",
+        "company": "samsung",
+        "price": 5000000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "image": "https://images.unsplash.com/photo-1610945264803-c22b62d2a7b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "shipping": true
+    },
+    {
+        "id": "delllappro",
+        "name": "Dell Series",
+        "company": "dell",
+        "price": 600000,
+        "colors": [
+            "#22D3EF",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "laptop"
+    },
+    {
+        "id": "nokia420pro",
+        "name": "Nokia 420",
+        "company": "nokia",
+        "price": 12599,
+        "colors": [
+            "#000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1568706407142-cafe0c91e5a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=741&q=80",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "shipping": true
+    },
+    {
+        "id": "macpcpro",
+        "name": "Mac Pc",
+        "company": "apple",
+        "price": 4000099,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1569770218135-bea267ed7e84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+        "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "computer",
+        "shipping": true
+    },
+    {
+        "id": "macbookpro",
+        "name": "Macbook Pro",
+        "company": "apple",
+        "price": 42999,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1614630536369-2516d7c0a58c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "laptop",
+        "shipping": true
+    },
+    {
+        "id": "asusgseriespro",
+        "name": "Asus gseries",
+        "company": "asus",
+        "price": 23999,
+        "colors": [
+            "#CDD0D0",
+            "#000"
+        ],
+        "image": "https://images.unsplash.com/photo-1636211992838-251a43d72ad2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "laptop",
+        "shipping": true
+    },
+    {
+        "id": "lenovoacsspro",
+        "name": "Accessories",
+        "price": 1099999,
+        "company": "lenovo",
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+        "description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "accessories",
+        "featured": true,
+        "shipping": true
+    },
+    {
+        "id": "iwatchapplepro",
+        "name": "Iwatch",
+        "price": 39999,
+        "company": "apple",
+        "colors": [
+            "#000000"
+        ],
+        "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=452&q=80",
+        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "watch",
+        "shipping": true
+    },
+    {
+        "id": "applemob0pro",
+        "name": "user need",
+        "company": "apple",
+        "price": 300099,
+        "colors": [
+            "#ff0000",
+            "#22D3EF",
+            "#000000"
+        ],
+        "image": "https://images.unsplash.com/photo-1606341802409-aceb7ebbec1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "accessories"
+    },
+    {
+        "id": "rolexpre",
+        "name": "rolex premium",
+        "company": "rolex",
+        "price": 999999,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "watch"
+    },
+    {
+        "id": "galaxyw20pro",
+        "name": "galaxy w20",
+        "price": 311999,
+        "company": "samsung",
+        "colors": [
+            "#22D3EF",
+            "#ff0000",
+            "#000000"
+        ],
+        "image": "https://images.unsplash.com/photo-1632280071595-b13521457242?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ix",
+        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "watch",
+        "featured": true
+    },
+    {
+        "id": "iponexpro",
+        "name": "iphone x",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+            "#ff0000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1561654791-00316c79efa8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=784&q=80",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "featured": true
+    },
+    {
+        "id": "samsungs20pro",
+        "name": "samsung s20",
+        "company": "samsung",
+        "price": 5000000,
+        "colors": [
+            "#000",
+            "#22D3EF"
+        ],
+        "image": "https://images.unsplash.com/photo-1610792516307-ea5acd9c3b00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "shipping": true
+    },
+    {
+        "id": "dellser0pro",
+        "name": "Dell Series",
+        "company": "dell",
+        "price": 600000,
+        "colors": [
+            "#22D3EF",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1620365602462-40d8f2cdd84c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=871&q=80",
+        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "laptop"
+    },
+    {
+        "id": "samsungs20pro",
+        "name": "Nokia 420",
+        "company": "nokia",
+        "price": 12599,
+        "colors": [
+            "#000",
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1568706407142-cafe0c91e5a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=741&q=80",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "shipping": true
+    },
+    {
+        "id": "macpcpro",
+        "name": "Mac Pc",
+        "company": "apple",
+        "price": 4000099,
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1569770218135-bea267ed7e84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+        "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "computer",
+        "shipping": true
+    },
+    {
+        "id": "macbook2pro",
+        "name": "Macbook Pro",
+        "company": "apple",
+        "price": 42999,
+        "colors": [
+            "#000000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "laptop",
+        "shipping": true
+    },
+    {
+        "id": "asusgpro",
+        "name": "Asus gseries",
+        "company": "asus",
+        "price": 23999,
+        "colors": [
+            "#CDD0D0",
+            "#000"
+        ],
+        "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "laptop",
+        "shipping": true
+    },
+    {
+        "id": "lenovopro",
+        "name": "Accessories",
+        "price": 1099999,
+        "company": "lenovo",
+        "colors": [
+            "#000",
+            "#CDD0D0"
+        ],
+        "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "accessories",
+        "featured": true,
+        "shipping": true
+    },
+    {
+        "id": "iwatch20pro",
+        "name": "Iwatch",
+        "price": 39999,
+        "company": "apple",
+        "colors": [
+            "#000000"
+        ],
+        "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=872&q=80",
+        "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "watch",
+        "shipping": true
+    },
+    {
+        "id": "applewatchpro",
+        "name": "user need",
+        "company": "apple",
+        "price": 300099,
+        "colors": [
+            "#ff0000",
+            "#22D3EF",
+            "#000000"
+        ],
+        "image": "https://images.unsplash.com/photo-1592832122594-c0c6bad718b1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "accessories"
+    }
+]
