@@ -1,6 +1,7 @@
 const Product = require('../models/product');
 
 const getAllProducts= async (req,res)=>{
+  try{
     const {company,name,sort,select}=req.query;
     const queryobj= {};
     if(company){
@@ -28,11 +29,29 @@ const getAllProducts= async (req,res)=>{
     Apidata.nbHits= Apidata.length;
     const Data= await Apidata;
     res.status(200).json({Data,nbHits:Data.length});
+  }
+  catch(err){
+    console.log(err);
+  }
 
 }
+
+const getProduct= async(req,res,next)=>{
+  try{
+     const productId = req.params.id;
+    //  console.log('id we got :',productId);
+     const productData = await Product.find({id:productId});
+    //  console.log('product data:',productData);
+     res.status(200).json({message:productData})
+  }
+  catch(err){
+    console.log(err);
+  }
+}
+
 const getAllProductsTesting= async (req,res)=>{
     res.status(200).json({msg:"hi from all products testing."})
 
 }
 
-module.exports= {getAllProducts,getAllProductsTesting}
+module.exports= {getAllProducts,getAllProductsTesting,getProduct}
