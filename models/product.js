@@ -1,60 +1,79 @@
-const mongoose= require('mongoose');
+const mongoose = require('mongoose');
 
-const ProductSchema= new mongoose.Schema({
-    id:{
-        type:String,
-        required:true
+const ProductSchema = new mongoose.Schema({
+    id: {
+        type: String,
+        required: true
     },
-    name:{
-        type:String,
-        required:true
+    name: {
+        type: String,
+        required: true
     },
-    price:{
-        type:Number,
-        required:[true,'price must be provided!']
+    price: {
+        type: Number,
+        required: [true, 'price must be provided!']
     },
-    featured:{
-        type:Boolean,
-        default:false,
+    featured: {
+        type: Boolean,
+        default: false,
     },
-    rating:{
-        type:Number,
-        default:4.9,
+    rating: {
+        type: Number,
+        default: 4.9,
     },
-    createdAt:{
-        type:Date,
+    createdAt: {
+        type: Date,
         default: Date.now(),
     },
-    company:{
+    company: {
         type: String,
-        enum:{
-            values:['dell','apple','mi','samsung','nokia','asus','lenovo','rolex'],
-            message:`{VALUE} is not supported`
+        enum: {
+            values: ['dell', 'apple', 'mi', 'samsung', 'nokia', 'asus', 'lenovo', 'rolex'],
+            message: `{VALUE} is not supported`
         },
     },
-    colors:[{
+    colors: [{
         type: String,
-        enum:["#ff0000",
+        enum: ["#ff0000",
             "#000000",
-            "#CDD0D0","#000",
+            "#CDD0D0", "#000",
             "#22D3EF"],
     }],
-    image:{
-     type:String,
-     required:true,
+    image: [
+        {
+            id: {
+                type: String,
+                required: true
+            },
+
+            url: {
+                type: String,
+                required: true,
+            }
+
+        }
+    ],
+    description: {
+        type: String,
+        required: true,
     },
-    description:{
-     type:String,
-     required:true,
+    category: {
+        type: String,
+        required: true
     },
-    category:{
-        type:String,
-        required:true
+    shipping: {
+        type: Boolean,
     },
-    shipping:{
-        type:Boolean,
-    },
+    reviews: {
+        type: Number,
+        required: true,
+    }
+    ,
+    stars: {
+        type: Number,
+        required: true
+    }
 });
 
-module.exports = new mongoose.model('Product',ProductSchema);
+module.exports = new mongoose.model('Product', ProductSchema);
 
