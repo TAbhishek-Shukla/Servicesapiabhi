@@ -72,6 +72,10 @@ const ProductSchema = new mongoose.Schema({
     stars: {
         type: Number,
         required: true
+    },
+    stock:{
+        type:Number,
+        required:true
     }
 });
 
